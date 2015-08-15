@@ -1,5 +1,5 @@
 # goimgext
-Image Extension for Go
+List of Image file extensions for Go
 
 # How to install
 <pre>
