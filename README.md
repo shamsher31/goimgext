@@ -8,7 +8,7 @@ go get github.com/shamsher31/goimgext
 
 # How to use
 <pre>
-package main
+package main© (Shamsher Ansari)[]
 
 import (
 	"fmt"
@@ -21,4 +21,7 @@ func main() {
 </pre>
 
 # Why
-This package is inspired by [arthurvr](https://github.com/arthurvr/image-extensions)
+This package is inspired by [arthurvr](https://www.npmjs.com/package/image-extensions).
+
+# License
+MIT © (Shamsher Ansari)[https://github.com/shamsher31]
