@@ -8,7 +8,7 @@ go get github.com/shamsher31/goimgext
 
 # How to use
 <pre>
-package main© (Shamsher Ansari)[]
+package main
 
 import (
 	"fmt"
