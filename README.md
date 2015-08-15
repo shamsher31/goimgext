@@ -24,4 +24,4 @@ func main() {
 This package is inspired by [arthurvr](https://www.npmjs.com/package/image-extensions).
 
 # License
-MIT © (Shamsher Ansari)[https://github.com/shamsher31]
+MIT © [Shamsher Ansari](https://github.com/shamsher31)
