@@ -21,7 +21,7 @@ func main() {
 </pre>
 
 # Why
-This package is inspired by [arthurvr](https://www.npmjs.com/package/image-extensions) npm module for image extension.
+This package is inspired by [image-extensions](https://www.npmjs.com/package/image-extensions) npm module for image extension.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
