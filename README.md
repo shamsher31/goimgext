@@ -1,13 +1,13 @@
 # goimgext
 List of Image file extensions for Go
 
-# How to install
-<pre>
+### How to install
+```go
 go get github.com/shamsher31/goimgext
-</pre>
+```
 
-# How to use
-<pre>
+### How to use
+```go
 package main
 
 import (
@@ -18,10 +18,10 @@ import (
 func main() {
 	fmt.Println(imgext.Get())
 }
-</pre>
+```
 
-# Why
-This package is inspired by [image-extensions](https://www.npmjs.com/package/image-extensions) npm module for image extension.
+### Why
+This package is inspired by [image-extensions](https://www.npmjs.com/package/image-extensions) npm module.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
