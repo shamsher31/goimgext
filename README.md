@@ -1,7 +1,7 @@
 # goimgext
 
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goimgext)
-[![Build Status](https://travis-ci.org/shamsher31/goimgext.svg)](https://travis-ci.org/shamsher31/goimgext)
+[![Go Build](https://github.com/shamsher31/goimgext/actions/workflows/go.yml/badge.svg)](https://github.com/shamsher31/goimgext/actions/workflows/go.yml)
 
 List of Image file extensions for Go
 
